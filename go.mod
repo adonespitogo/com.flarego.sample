@@ -1,3 +1,3 @@
-module com.mydomain.GxK1QKWj
+module github.com/adonespitogo/com.flarego.sample
 
-go 1.21.0
+go 1.21
