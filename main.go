@@ -1,9 +1,9 @@
 package main
 
-import sdkplugin "sdk/api/plugin"
+import api "sdk/api"
 
 func main() {}
 
-func Init(api sdkplugin.IPluginApi) {
+func Init(api api.IPluginApi) {
 	// Your plugin code here
 }

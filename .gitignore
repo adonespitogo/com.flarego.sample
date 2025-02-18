@@ -1,3 +1,4 @@
 # Ignore main_mono.go
 main_mono.go
 resources/assets/dist
+*.so
